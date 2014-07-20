@@ -1,0 +1,8 @@
+<% provide(:title, 'Search Flights') %>
+<h1>Flights</h1> 
+
+<%= render 'search' %>
+
+<% if !@flights.none? %>
+  <%= render 'search_results' %>
+<% end %>

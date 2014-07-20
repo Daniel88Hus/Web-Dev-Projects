@@ -1,0 +1,74 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	padding-top: 112px;
+}
+
+input{
+	display: block;
+	margin: 16px auto 8px auto;
+	width: 500px;
+}
+
+div{
+	text-align: center;
+	clear: right;
+	width: 100%;
+	display: block;
+
+}
+
+#apps{
+		background-image: url(https://lh4.googleusercontent.com/-TGT3D42H_y4/AAAAAAAAAAI/AAAAAAAAAAA/O1OUzqFpS4Y/s0/photo.jpg);
+		background-size: 112px 1828px;
+		height: 30px;
+		width: 30px;
+}
+
+#bell{
+		background-image: url(https://lh4.googleusercontent.com/-TGT3D42H_y4/AAAAAAAAAAI/AAAAAAAAAAA/O1OUzqFpS4Y/s0/photo.jpg);
+		background-size: 112px 1828px;
+		height: 30px;
+		width: 30px;
+}
+
+#photo{
+	background-size: 32px 32px;
+	border-radius: 50%;
+	background-image: url(https://lh4.googleusercontent.com/-TGT3D42H_y4/AAAAAAAAAAI/AAAAAAAAAAA/O1OUzqFpS4Y/s0/photo.jpg);
+}
+
+#header_list{
+	float: right;
+}
+
+#header_list li{
+	width: auto;
+	padding: 5px;
+}
+
+#share{
+	background-color: gray;
+}
+
+footer{
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+}
+
+#left_list{
+	float: left;
+}
+
+#right_list{
+	float: right;
+	margin-right: 20px;
+}
+
+li{
+	display: inline;
+}

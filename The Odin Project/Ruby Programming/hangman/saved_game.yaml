@@ -1,0 +1,17 @@
+--- !ruby/object:Hangman
+word:
+- w
+- u
+- r
+- s
+- t
+turns: 7
+displays: !ruby/object:Hangman::Board
+  board:
+  - _
+  - _
+  - _
+  - _
+  - _
+  fails: []
+  guesses: []
